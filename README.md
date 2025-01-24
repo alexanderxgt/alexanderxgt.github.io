@@ -1,7 +1,7 @@
 ### alexanderxgt.github.io
 A personal website for Alexander X. Gonzalez-Torres, a student of CSPB 3112 at the University of Colorado Boulder. 
 
-__Weekly Post No. 1 (January 13-19)__
+__Weekly Post Week No. 2 (January 13-19)__
 
 1. What did you do last week?
    
