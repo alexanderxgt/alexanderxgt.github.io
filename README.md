@@ -21,11 +21,11 @@ I should probably give myself more time and 'pepper in' work throughout the week
 
 __Weekly Post Week No. 3 (January 27-February 2)__
 
-This week I researched live coding and decided that producing a 30-minute live coded techno set will be my project for this class. It will help me engage actively with the algorave scene in SF – a bunch of them work in tech! I mostly do techno/house and those crowds lean heavily towards creative fields. 
+This week I researched live coding and decided that producing a 30-minute live coded techno set will be my project for this class. It will help me engage actively with the algorave scene in SF – a bunch of them work in tech! At the moment, I mostly do techno/house and those crowds lean heavily towards creative fields. 
 
-This week I really need to work on GitHub page. It’s so bare bones and I hate showing it to others hah. 
+This week I really need to work on my GitHub page. It’s so bare bones and I hate showing it to others hah. 
 
-I am really busy with 3 other classes, but I can work progressively towards a presentable website, so doing SOMETHING is definitely achievable. 
+I am really busy with 3 other classes, but I can work progressively towards a presentable website, so doing SOMETHING is definitely achievable. It does not need to be a finished product by next week. 
 
 On my calendar, I realize that I should put dedicated slots to work on my project for this course. This will be more productive. 
 
