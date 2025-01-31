@@ -1,7 +1,7 @@
 ### alexanderxgt.github.io
 A personal website for Alexander X. Gonzalez-Torres, a student of CSPB 3112 at the University of Colorado Boulder. 
 
-__Weekly Post Week No. 2 (January 13-19)__
+__Weekly Post Week No. 3 (January 27-February 2)__
 
 What did you do last week?
    
@@ -18,6 +18,18 @@ Everyone aformentioned, explicitely and otherwise, is a busy person. But I don't
 Reflection on the process you used last week, how can you make the process work better?
    
 I should probably give myself more time and 'pepper in' work throughout the week. I did everything in a single 3-4 hour session and that disrupted my day just a bit. But that's a personal issue. 
+
+__Weekly Post Week No. 2 (January 13-19)__
+
+This week I researched live coding and decided that producing a 30-minute live coded techno set will be my project for this class. It will help me engage actively with the algorave scene in SF – a bunch of them work in tech! I mostly do techno/house and those crowds lean heavily towards creative fields. 
+
+This week I really need to work on GitHub page. It’s so bare bones and I hate showing it to others hah. 
+
+I am really busy with 3 other classes, but I can work progressively towards a presentable website, so doing SOMETHING is definitely achievable. 
+
+On my calendar, I realize that I should put dedicated slots to work on my project for this course. This will be more productive. 
+
+
 
 
 
