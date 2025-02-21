@@ -12,7 +12,7 @@ I also started playing around with Haskell and live coding, after setting up my 
 
 __What do you plan to do this week?__
 
-This week I need to finish constructing this website and add my own flair to it. I want to connect it to Soundcloud and to be able to post music links on here. 
+This week I need to finish constructing this website and add my own flair to it. I want to connect it to Soundcloud and to be able to post music links on here,  since live coding is my personal project for the course.
 
 __Are there any impediments in your way?__
 
