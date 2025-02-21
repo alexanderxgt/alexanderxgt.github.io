@@ -26,7 +26,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hey, I'm Alexander. I’m a data scientist and live coder based in San Francisco.
-  hero__description: This is my last semester as an Applied Computer Science at the University of Colorado Boulder. I am using this webpage to document my journey into live coding as part of CSPB 3112 - Professional Development in Computer Science. This webpage is currently under construction, but you may find my weekly updates under /blog/
+  hero__description: This is my last semester as an Applied Computer Science student at the University of Colorado Boulder. I am using this webpage to document my journey into live coding as part of CSPB 3112 - Professional Development in Computer Science. While it is currently under construction, you may find my weekly updates under /blog/
 
 #-------------------------------
 # Portfolio Settings
