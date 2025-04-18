@@ -18,8 +18,6 @@ menu__settings:
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
 
 
 #-------------------------------
@@ -89,6 +87,7 @@ social:
 #- {icon: "ion-logo-instagram", color: "#e4405f", label: Instagram, link: "https://instagram.com"}
 #- {icon: "ion ion-logo-vimeo", color: "#1393cd", label: Vimeo, link: "https://vimeo.com"}
 - {icon: "ion-logo-linkedin", color: "#3b5999", label: LinkedIn, link: "https://www.linkedin.com/in/alexanderxgt/"}
+- { icon: "ion-logo-github", color: "#24292e", label: Github, link: "https://github.com" }
 
 # Example of adding a new link to the footer section - {icon: "ion-logo-github", color: "#24292e, label: Github, link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
