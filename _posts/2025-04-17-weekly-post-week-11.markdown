@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Weekly Post, Week No. 13 (April 14-April 20)
-date:   2025-04-10 
+date:   2025-04-17
 image:  '/images/dog_dj.png'
 tags:   [CSPB 3112, Weekly Post]
 ---
